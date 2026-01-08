@@ -1,6 +1,13 @@
+# Python assignment module 2, Data Steward course, Uni Wien
+# Annakim Eltén
+# Date 2026-01-08
+
+# The program does:
+
 # Read a text file
 # Remove unwanted characters
 # Split into words
+# Create a list of stop words
 # Count word occurrences
 # Get the 10 most common words
 # Print the total number of words
